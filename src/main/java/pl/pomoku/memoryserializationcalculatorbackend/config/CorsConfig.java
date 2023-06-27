@@ -1,4 +1,4 @@
-package pl.pomoku.matrixcalculatorbackend.config;
+package pl.pomoku.memoryserializationcalculatorbackend.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
